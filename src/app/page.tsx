@@ -47,7 +47,7 @@ const PricePlanArr: Record<string, PricePlan> = {
     description: "Best for business owners",
     price: "$120",
     features: [
-      "Customizable emplyee directory",
+      "Customizable employee directory",
       "Clent projext management",
       "Client meeting schedule",
       "Complience tracking",
